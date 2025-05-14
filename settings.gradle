@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "open-cv-prj"
 include ':app'
+
+include ':opencv'
