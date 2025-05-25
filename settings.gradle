@@ -23,3 +23,4 @@ rootProject.name = "open-cv-prj"
 include ':app'
 
 include ':opencv'
+include ':native'
