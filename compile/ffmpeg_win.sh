@@ -1,11 +1,11 @@
 #!/bin/bash
 set -e
 #FFmpeg源码路径
-SRC_DIR=D:/Projects/ffmpeg-6.1.2
+SRC_DIR=D:/Projects/ffmpeg-7.1.1
 DST_DIR=D:/Projects/ffmpeg_out
 #NDK路径
-NDK=D:/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64
-API=34
+NDK=D:/android-sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64
+API=30
 
 cd $SRC_DIR
 
